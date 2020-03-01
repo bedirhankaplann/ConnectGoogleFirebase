@@ -17,8 +17,8 @@ namespace ConnectFirebase.Controllers
      {
         FirebaseConfig config = new FirebaseConfig
         {
-            AuthSecret = "0s17slEglSZbkq47so6VuWKvG52LR8QN8EhjKvIO",
-            BasePath = "https://kys-database.firebaseio.com/"
+            AuthSecret = "Database KEY",
+            BasePath = "Database URL"
         };
 
         IFirebaseClient client;
