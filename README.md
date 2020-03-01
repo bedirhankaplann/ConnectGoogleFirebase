@@ -3,7 +3,4 @@ Firebase connection with the SHA256 security of the data in the registration for
 
 The theme is taken from https://colorlib.com/wp/template/login-form-v12/ site.
 
-<p align="center">
-  <img src="https://drive.google.com/open?id=1SOzccMTF7nfrQaUdjsd4Fhz0R-AJoqpb" title="hover text">
- 
-</p>
+![Screen](https://user-images.githubusercontent.com/34594057/75635412-eba20d00-5c26-11ea-923f-5a72de0e2bdc.png)
